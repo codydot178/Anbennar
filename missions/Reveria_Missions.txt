@@ -1,4 +1,4 @@
-# ï¿½ <-- This is here to make sure that the encoding stays ANSI, do not remove it
+# í <-- This is here to make sure that the encoding stays ANSI, do not remove it
 reveria_1 = {
 	slot = 1
 	generic = no
@@ -136,8 +136,8 @@ reveria_1 = {
 			}
 			country_event = { id = reveria.12 }	
 			177 = {
-				change_province_name = Drekirï¿½ki
-				rename_capital = Drekirï¿½ki 
+				change_province_name = Drekiríki
+				rename_capital = Drekiríki 
 			}
 			if = {
 				limit = { ai = yes }
@@ -155,8 +155,8 @@ reveria_1 = {
 			}
 			country_event = { id = reveria.12 }	
 			177 = {
-				change_province_name = Drekirï¿½ki
-				rename_capital = Drekirï¿½ki
+				change_province_name = Drekiríki
+				rename_capital = Drekiríki
 			}
 		}
 	}
