@@ -12,16 +12,12 @@ country_decisions = {
 		}
 		allow = {
 			NOT = { has_ruler_modifier = ruler_recently_casted_spell }
-			#NOT = { has_ruler_modifier = magic_siege_menu_cooldown }
 			is_lesser_in_union = no
-			is_at_war = yes
-			any_province = {	#does work
-				fort_level = 1
-				sieged_by = ROOT
-				unit_has_leader = yes
-				num_of_units_in_province = {
-					who = ROOT
-					amount = 1
+			any_army = {
+				location = {
+					fort_level = 1
+					sieged_by = ROOT
+					unit_has_leader = yes
 				}
 			}
 		}
