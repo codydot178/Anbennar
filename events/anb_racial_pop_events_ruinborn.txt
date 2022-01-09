@@ -3017,6 +3017,7 @@ country_event = {
 		has_country_modifier = racial_pop_ruinborn_expulsion
 		
 		any_owned_province = {
+			NOT = { has_state_edict = connadh_camp_edict }
 			has_ruinborn_minority_trigger = yes
 		}
 	}
@@ -3184,6 +3185,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
+					NOT = { has_state_edict = connadh_camp_edict }
 					has_ruinborn_minority_trigger = yes
 				}
 				save_event_target_as = racial_pop_province_origin
@@ -3352,6 +3354,7 @@ country_event = {
 		has_country_modifier = racial_pop_ruinborn_expulsion
 		
 		any_owned_province = {
+			NOT = { has_state_edict = connadh_camp_edict }
 			has_ruinborn_majority_trigger = yes
 			culture_is_ruinborn = yes
 		}
@@ -3532,6 +3535,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
+					NOT = { has_state_edict = connadh_camp_edict }
 					has_ruinborn_majority_trigger = yes
 					culture_is_ruinborn = yes
 				}
@@ -3657,6 +3661,7 @@ country_event = {
 		has_country_modifier = racial_pop_ruinborn_purge
 		
 		any_owned_province = {
+			NOT = { has_state_edict = connadh_camp_edict }
 			has_ruinborn_minority_trigger = yes
 		}
 	}
@@ -3825,6 +3830,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
+					NOT = { has_state_edict = connadh_camp_edict }
 					has_ruinborn_minority_trigger = yes
 				}
 				save_event_target_as = racial_pop_province_origin
@@ -3891,6 +3897,7 @@ country_event = {
 		has_country_modifier = racial_pop_ruinborn_purge
 		
 		any_owned_province = {
+			NOT = { has_state_edict = connadh_camp_edict }
 			has_ruinborn_majority_trigger = yes
 			culture_is_ruinborn = yes
 		}
@@ -4071,6 +4078,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
+					NOT = { has_state_edict = connadh_camp_edict }
 					has_ruinborn_majority_trigger = yes
 					culture_is_ruinborn = yes
 				}
@@ -4135,6 +4143,7 @@ country_event = {
 		has_country_modifier = racial_pop_ruinborn_purge
 		
 		any_owned_province = {
+			NOT = { has_state_edict = connadh_camp_edict }
 			has_ruinborn_minority_trigger = yes
 		}
 	}
@@ -4302,6 +4311,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
+					NOT = { has_state_edict = connadh_camp_edict }
 					has_ruinborn_minority_trigger = yes
 				}
 				save_event_target_as = racial_pop_province_origin
@@ -4426,6 +4436,7 @@ country_event = {
 		has_country_modifier = racial_pop_ruinborn_purge
 		
 		any_owned_province = {
+			NOT = { has_state_edict = connadh_camp_edict }
 			has_ruinborn_majority_trigger = yes
 			culture_is_ruinborn = yes
 		}
@@ -4606,6 +4617,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
+					NOT = { has_state_edict = connadh_camp_edict }
 					has_ruinborn_majority_trigger = yes
 					culture_is_ruinborn = yes
 				}
@@ -4753,6 +4765,7 @@ country_event = {
 		}
 		
 		any_owned_province = {
+			NOT = { has_state_edict = connadh_camp_edict }
 			has_ruinborn_majority_trigger = yes
 			culture_is_ruinborn = yes
 			NOT = { unrest = 20 }
@@ -4908,6 +4921,7 @@ country_event = {
 		hidden_effect = {
 			random_owned_province = {
 				limit = {
+					NOT = { has_state_edict = connadh_camp_edict }
 					has_ruinborn_majority_trigger = yes
 					culture_is_ruinborn = yes
 				}
