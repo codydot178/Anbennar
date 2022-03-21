@@ -3,7 +3,7 @@
 
 graphical_culture = elvengfx
 
-color = { 241 135 50 }
+color = { 251 142 218 }
 
 revolutionary_colors = { 6 0 6 }
 

@@ -3,7 +3,7 @@
 
 graphical_culture = northamericagfx
 
-color = { 160  128  122 }
+color = { 238 136 236 }
 
 
 

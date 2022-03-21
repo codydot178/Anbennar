@@ -3,7 +3,7 @@
 
 graphical_culture = nomadgfx
 
-color = { 147 165 172 }
+color = { 238 118 225 }
 
 revolutionary_colors = { 147 165 172 }
 

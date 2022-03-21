@@ -3,7 +3,7 @@
 
 graphical_culture = indiangfx
 
-color = { 153  206  236 }
+color = { 251 148 217 }
 
 
 

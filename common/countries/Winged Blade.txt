@@ -3,7 +3,7 @@
 
 graphical_culture = nomadgfx
 
-color = { 32 192 14 }
+color = { 238 151 218 }
 
 historical_idea_groups = {
 	aristocracy_ideas

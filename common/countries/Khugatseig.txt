@@ -3,7 +3,7 @@
 
 graphical_culture = triunicgfx
 
-color = { 172 234 14 }
+color = { 235 154 220 }
 
 revolutionary_colors = { 172 234 14 }
 

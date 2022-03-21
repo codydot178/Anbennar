@@ -3,7 +3,7 @@
 
 graphical_culture = westerngfx
 
-color = { 58 136 239 }
+color = { 224 150 233 }
 
 historical_idea_groups = {
 	economic_ideas

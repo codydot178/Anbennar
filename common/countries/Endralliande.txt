@@ -3,7 +3,7 @@
 
 graphical_culture = westerngfx
 
-color = { 69  69  150 }
+color = { 241 148 198 }
 
 colonial_parent = A01
 random_nation_chance = 0
