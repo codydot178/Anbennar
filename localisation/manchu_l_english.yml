@@ -81,8 +81,8 @@
  mch_combat_modifier:0 "Hunting Banners"
  desc_mch_combat_modifier:1 "Sending out hunting parties organized around 'banner' units is excellent practice for Jurchen combat tactics."
  # Tungning tag
- FRM:0 "Tungning"
- FRM_ADJ:0 "Taiwanese"
+ FRM:0 "Tellum"
+ FRM_ADJ:0 "Tellumite"
  # Manchu mission events
  mch_missions.1.t:0 "Treachery at the Great Wall"
  mch_missions.1.d:0 "Few now have any faith in the Ming state. Even its generals wonder aloud if it might be prudent to defect to the invading [Root.GetAdjective]. The man tasked with defending the Shanghai Pass is Wu Sangui, a talented and ambitious commander who has faced [Root.Culture.GetName] armies in battle before with some success. Recent events in the capital and beyond have shaken his loyalty to the Ming [MNG.Monarch.GetTitle], and now he seeks an unlikely alliance with his former enemies. Promised titles and offices under the new order, Wu Sangui has agreed to defect to [Root.GetName]. We can march safely through the Shanghai Pass and onwards toward a weakened Beijing."
@@ -188,8 +188,8 @@
  mch_missions.7.b:0 "The tribes must be reorganized."
  unite_mongol_culture_tt:1 "All owned provinces with §YKorchin§!, §YKhalka§!, or §YOirat§! culture will change to §YMongol§! culture"
  # Wokou Pirates
- SOO:0 "So"
- SOO_ADJ:0 "So"
+ SOO:0 "Tellum"
+ SOO_ADJ:0 "Tellumite"
  pirates.21.t:0 "Return to the Wakou Era"
  pirates.21.d:0 "After the Korean invasion of Tsushima in 1419, the So clan signed the Treaty of Gyehae in which trade with Korea was legitimized in return for the cessation of piracy. By controlling Japanese-Korean trade, the So clan enjoyed huge profits and became highly respected in the Shogunate as specialists in Korean diplomacy.\n\nWith the Shogunate weakened, some now suggest that the clan should return to the old tradition of piracy. The leader of the upstart pirates claims to be the reincarnation of the legendary pirate Akibatsu Matsura, who led a fleet of 500 ships to raid the Korean coast."
  pirates.21.a:0 "A pirate's life for me!"
@@ -246,10 +246,10 @@
  sakhalin_area_adj:0 "Sakhalin"
  evenk:0 "Evenk"
  # Manchuria Tags
- SOL:0 "Solon"
- SOL_ADJ:0 "Solon"
- NVK:0 "Nivkh"
- NVK_ADJ:0 "Nivkh"
+ SOL:0 "Tellum"
+ SOL_ADJ:0 "Tellumite"
+ NVK:0 "Tellum"
+ NVK_ADJ:0 "Tellumite"
  EJZ:1 "Donghai"
  EJZ_ADJ:1 "Donghai"
  NHX:1 "Udege"
