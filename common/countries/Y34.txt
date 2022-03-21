@@ -4,7 +4,7 @@
 
 graphical_culture = muslimgfx
 
-color = { 237 141 218 }
+color = { 239 121 183 }
 
 
 

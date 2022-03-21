@@ -5,7 +5,7 @@
 
 graphical_culture = southamericagfx
 
-color = { 238 136 213 }
+color = { 232 136 218 }
 
 historical_idea_groups = {
 	economic_ideas

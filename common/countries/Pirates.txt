@@ -3,7 +3,7 @@
 
 graphical_culture = westerngfx
 
-color = { 224 136 230 }
+color = { 238 177 218 }
 
 monarch_names = {
 	"Woodes  #0" = 10
