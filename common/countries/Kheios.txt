@@ -3,7 +3,7 @@
 
 graphical_culture = kheionaigfx
 
-color = { 60 120 180 }
+color = { 255 136 172 }
 
 revolutionary_colors = { 60 120 180 }
 

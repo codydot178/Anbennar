@@ -4,7 +4,7 @@
 
 graphical_culture = asiangfx
 
-color = { 112  11  187 }
+color = { 223 98 181 }
 
 
 

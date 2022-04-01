@@ -3,7 +3,7 @@
 
 graphical_culture = elvengfx
 
-color = { 49  159  159 }
+color = { 247 191 182 }
 
 
 

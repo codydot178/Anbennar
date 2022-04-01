@@ -3,7 +3,7 @@
 
 graphical_culture = westerngfx
 
-color = { 203  164  103 }	
+color = { 255 136 194 }	
 
 # Used for colonial nations
 historical_idea_groups = {	

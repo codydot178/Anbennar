@@ -3,7 +3,7 @@
 
 graphical_culture = divenhalgfx
 
-color = { 185  122  87 }
+color = { 250 83 255 }
 
 
 

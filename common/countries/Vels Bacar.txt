@@ -3,7 +3,7 @@
 
 graphical_culture = easterngfx
 
-color = { 101  238  221 }
+color = { 192 95 255 }
 
 
 
