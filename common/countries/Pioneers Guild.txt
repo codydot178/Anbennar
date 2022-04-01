@@ -3,7 +3,7 @@
 
 graphical_culture = westerngfx
 
-color = { 255 167 218 }
+color = { 209  160  107 }
 
 
 

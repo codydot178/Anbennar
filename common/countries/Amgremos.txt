@@ -3,7 +3,7 @@
 
 graphical_culture = kheionaigfx
 
-color = { 255 136 195 }
+color = { 159  130  188 }
 
 
 

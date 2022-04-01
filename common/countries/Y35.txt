@@ -4,7 +4,7 @@
 
 graphical_culture = southamericagfx
 
-color = { 219 142 173 }
+color = { 68  5  16 }
 
 
 
